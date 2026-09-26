@@ -4,7 +4,7 @@ A personal portfolio website showcasing my **web development skills, projects, e
 
 ## 🌐 Live Website
 
-🚀 **Portfolio:** Coming soon — deployed with Vercel
+🚀 **Portfolio:** https://himank-webportfolio.vercel.app/
 
 ## 👨‍💻 About Me
 
